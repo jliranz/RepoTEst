@@ -1,0 +1,2 @@
+# RepoTEst
+Subversion new stratergy
